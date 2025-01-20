@@ -9,4 +9,11 @@ This is a **diving assistant device** that helps divers track **depth and temper
 ![Project Sketch](path_to_sketch.png)
 
 ---
+## 🔗 System Architecture
+
+### **How Devices Communicate**
+![System Communication Diagram](path_to_communication_diagram.png)
+
+### **Function Details**
+![Function Flowchart](path_to_function_diagram.png)
 
